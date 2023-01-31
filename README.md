@@ -1,1 +1,1 @@
-# cot-4500-as2
+To ensure all necessary libraries utilized are installed, first run pip install -r requirements.txt To run the assignment_2.py file from the command line, first navigate to the directory the file is in before running python3 assignment_2.py
